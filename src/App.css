@@ -34,7 +34,7 @@ html {
 }
 
 form {
-    margin: 40px;
+    margin: 40px 40px 280px 40px;
 }
 
 .phonenumber {
@@ -83,4 +83,10 @@ input.submit {
 
 .advanced-input {
     background-color: rgb(255, 183, 157);
+}
+
+.socials {
+    color: rgb(255, 183, 157);
+    text-decoration: none;
+    font-size: 0.8rem;
 }
